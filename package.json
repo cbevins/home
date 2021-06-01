@@ -1,6 +1,6 @@
 {
-  "name": "cbevins-tinker",
-  "description": "@cbevins sapper-webpack-template for tinkering",
+  "name": "home",
+  "description": "@cbevins/home landing/toc/home page for tinkering on netlify, surge, etc",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
